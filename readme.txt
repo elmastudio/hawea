@@ -1,6 +1,9 @@
 
 For the detailed theme documentation please visit:
 
+Updates:
+Install the Git Updater plugin (https://git-updater.com/) and WordPress will offer new versions of this theme as regular theme updates, straight from GitHub.
+
 Changelog:
 
 Version 1.2 (17/01/2023)
